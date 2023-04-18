@@ -4,7 +4,7 @@ Advanced Shop Floor Control
 
 **1:權限**
 
-![image]([https://user-images.githubusercontent.com/114964065/196066018-136caf88-4062-491e-8941-36d38ab11cd8.png](https://drive.google.com/file/d/1XyB1fvEgm1FL4-kgmZVsm39x3nGAk5qS/view?usp=share_link))
+![image](https://github.com/Tony9453/Angular/blob/main/FB_IMG_1457533360945.jpg)
 
 ![帳號管理.png](C:\Users\tony.siao\Desktop\work%20note\圖檔\ASFC\帳號管理.png)
 
