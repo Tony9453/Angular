@@ -6,8 +6,6 @@ Advanced Shop Floor Control
 
 ![image](https://github.com/Tony9453/Angular/blob/main/FB_IMG_1457533360945.jpg)
 
-![帳號管理.png](C:\Users\tony.siao\Desktop\work%20note\圖檔\ASFC\帳號管理.png)
-
 **2:API和TABLE**
 
 ![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-09-29-21-image.png)
