@@ -1,44 +1,79 @@
-# Win10 IIS部署的安裝筆記
+Advanced Shop Floor Control
 
+### **Spring-boot後台維護**
 
-在 Windows Server 上安裝 .NET Core 裝載套件組合
-安裝.NET 5.0 SDK
+**1:權限**
 
-![image](https://user-images.githubusercontent.com/114964065/196099277-83c00533-93c9-4fdb-b651-f0fce75e19f8.png)
-![image](https://user-images.githubusercontent.com/114964065/196099323-240465a0-4c77-45a8-adb7-22400a0d4b30.png)
+![image]([https://user-images.githubusercontent.com/114964065/196066018-136caf88-4062-491e-8941-36d38ab11cd8.png](https://drive.google.com/file/d/1XyB1fvEgm1FL4-kgmZVsm39x3nGAk5qS/view?usp=share_link))
 
+![帳號管理.png](C:\Users\tony.siao\Desktop\work%20note\圖檔\ASFC\帳號管理.png)
 
-安裝dotnet-hosting-5.0.8-win.exe
+**2:API和TABLE**
 
-![image](https://user-images.githubusercontent.com/114964065/196099334-32c22a68-d77d-45ac-a720-f470ea8d8883.png)
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-09-29-21-image.png)
 
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-22-08-image.png)
 
+**3:微服務**
 
-在 IIS 管理員中建立 IIS 網站
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-22-53-image.png)
 
-![image](https://user-images.githubusercontent.com/114964065/196099358-925e4b8a-1ec3-4299-913b-45d3afc23fdd.png)
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-24-47-image.png)
 
+### Angular前台維護
 
+**1:庫存管理功能**
 
-接著由 【程式集 > 開啟或關閉Windows功能 > Internet Information Services > World Wide Web服務 > 應用程式開發功能 > ASP】，記得要核選 Web管理工具 喔，按下 [確定] 後就會自動安裝。
+MENU
 
-![image](https://user-images.githubusercontent.com/114964065/196099377-f091f41a-5cd7-48db-9c13-a0c0f9e2323f.png)
-![image](https://user-images.githubusercontent.com/114964065/196099390-6af4a580-77f1-41d4-826d-45c71ee6da4c.png)
-![image](https://user-images.githubusercontent.com/114964065/196099399-17e30532-0d18-4f0f-823c-f86f2d21adc7.png)
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-11-22-13-image.png)
 
+建立棧板標示
 
-IIS 的設定
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-09-16-19-image.png)
 
-![image](https://user-images.githubusercontent.com/114964065/196099405-af6b299e-8518-431f-bc15-975cf5aa47dc.png)
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-25-27-image.png)
 
+異動存放地點
 
-新增應用程式集區
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-26-43-image.png)
 
-![image](https://user-images.githubusercontent.com/114964065/196099414-5abc9d77-1b66-4324-9cae-2295470c0848.png)
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-11-19-45-image.png)
 
+備料標示
 
-新增網站
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-11-25-55-image.png)
 
-![image](https://user-images.githubusercontent.com/114964065/196099427-1234b497-449b-4db7-a59c-0e11a39fbc00.png)
+**2:出貨管理功能**
 
+MENU
 
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-11-45-52-image.png)
+
+訂單清單
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-10-33-51-image.png)
+
+訂單明細
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-10-35-01-image.png)
+
+紀錄出貨
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-10-35-33-image.png)**3:查詢功能**
+
+MENU
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-11-36-59-image.png)
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-21-11-37-53-image.png)
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-10-40-13-image.png)
+
+### **框架**
+
+![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-16-51-image.png)
+
+### **開發工具**
+
+Spring-boot、Angular、Jaspersoft、Oracle、Visual Studio Code
