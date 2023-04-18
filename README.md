@@ -4,7 +4,7 @@ Advanced Shop Floor Control
 
 **1:權限**
 
-![image](https://github.com/Tony9453/Angular/blob/main/FB_IMG_1457533360945.jpg)
+
 
 **2:API和TABLE**
 
