@@ -12,7 +12,7 @@ Advanced Shop Floor Control
 
 ![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-22-08-image.png)
 
-**3:微服務**
+
 
 ![](C:\Users\tony.siao\Desktop\work%20note\images\2023-02-02-11-22-53-image.png)
 
